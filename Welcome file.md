@@ -2,7 +2,7 @@
 
 -  [w01](https://github.com/terrylin8888/20180911-1/tree/master/w01)
 
--  [w02](https://github.com/terrylin8888/20180911-1/tree/master/w01)
+ - [w02](https://github.com/terrylin8888/20180911-1/tree/master/w2)
 
 # Files
 
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkxMTkwMzJdfQ==
+eyJoaXN0b3J5IjpbMjEyMDgwMzc4N119
 -->
